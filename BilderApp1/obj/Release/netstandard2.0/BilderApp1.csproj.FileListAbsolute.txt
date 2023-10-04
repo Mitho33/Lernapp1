@@ -1,0 +1,78 @@
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.deps.json
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\bin\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.pdb
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csprojAssemblyReference.cache
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\Bildanzeiger.xaml.g.cs
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfoInputs.cache
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfo.cs
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Lehrer\Desktop\BilderApp4\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.pdb
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.deps.json
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\bin\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.pdb
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csprojAssemblyReference.cache
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\Kartenansicht.xaml.g.cs
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfoInputs.cache
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfo.cs
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Lehrer\Desktop\Lernkartei6\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.pdb
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.deps.json
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.pdb
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.AssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\Kartenansicht.xaml.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfoInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfo.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.pdb
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.AssemblyReference.cache
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\Kartenansicht.xaml.g.cs
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfoInputs.cache
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfo.cs
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.CoreCompileInputs.cache
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.dll
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\ref\BilderApp1.dll
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.pdb
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.deps.json
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.dll
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\ref\BilderApp1.dll
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.pdb
+D:\2021_3\Ita\itaos\Lernkartei\Lernkartei7\BilderApp1\BilderApp1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.deps.json
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\bin\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\bin\Release\netstandard2.0\BilderApp1.pdb
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.AssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\Kartenansicht.xaml.g.cs
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfoInputs.cache
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.AssemblyInfo.cs
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\ref\BilderApp1.dll
+C:\Users\Michael Thomas\Desktop\norderney\LernkarteiRewe\BilderApp1\BilderApp1\obj\Release\netstandard2.0\BilderApp1.pdb

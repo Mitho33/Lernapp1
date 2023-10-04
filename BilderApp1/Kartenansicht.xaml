@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BilderApp1.Kartenansicht">
+    <ContentPage.Content  >
+        <StackLayout Background="dodgerblue" >
+                <ContentView ControlTemplate="{StaticResource logo}"/>
+                <Label x:Name="PlatzhalterId" FontSize="Large" Background="dodgerblue" TextColor="White" />
+                <Label x:Name="PlatzhalterFrage" FontSize="Large" Background="dodgerblue" TextColor="White" />
+                <Button Text="Antwort anzeigen" Clicked="AntwortAnzeigen_Click"/>
+                <ScrollView>
+                    <Label x:Name="PlatzhalterAntwort" Opacity="0" FontSize="Large" Background="dodgerblue" TextColor="White" />
+                </ScrollView>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

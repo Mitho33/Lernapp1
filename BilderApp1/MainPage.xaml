@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BilderApp1"
+             x:Class="BilderApp1.MainPage">
+    <!--xlmns für local -->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ViewModel1 x:Key="fragenSammlung"/>
+            <DataTemplate x:Key="kartenTemplate">
+                <ViewCell>
+                    <Grid x:Name="Tabelle1" Margin="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*" />
+                            <ColumnDefinition Width="8*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="{Binding Path=Id}"   Grid.Column="0" TextColor="White"/>
+                        <Label Text="{Binding Path=Frage}" MinimumHeightRequest="30" Grid.Column="1"  TextColor="White" />
+                        <Label Text="{Binding Path=Antwort}" Opacity="0"   Grid.Column="2"/>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout  Background="dodgerblue">
+        <ContentView ControlTemplate="{StaticResource logo}"/>
+        <ListView x:Name="LV1" ItemsSource="{StaticResource fragenSammlung}" ItemTemplate="{StaticResource kartenTemplate}" ItemSelected="AusgewähltesBild" VerticalOptions="StartAndExpand">
+        </ListView>
+        <StackLayout HeightRequest="5" >
+        <Label Opacity="0" x:Name="Lbl2" BindingContext="{x:Reference LV1}" Text="{Binding SelectedItem.Id}"/>
+        <Label  Opacity="0" x:Name="Lbl3" BindingContext="{x:Reference LV1}" Text="{Binding SelectedItem.Frage}"/>
+        <Label Opacity="0"  x:Name="Lbl4" BindingContext="{x:Reference LV1}" Text="{Binding SelectedItem.Antwort}"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
